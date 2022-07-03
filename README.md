@@ -1,6 +1,5 @@
-Explorering of US Bikeshare Data : https://github.com/Ahmed-Elsayed-de/Project1-Bike-Share-Data
+Investigating a Dataset : https://github.com/Ahmed-Elsayed-de/Project2-Investigate-a-Dataset
 
- Using Python to understand U.S. bikeshare data.
+ Analyzing a dataset and then communicate the findings about it.
 
- Calculating statistics and build an interactive environment where a user chooses the data and filter for a dataset
-to analyze.
+ Using the Python libraries NumPy, pandas, and Matplotlib to make the analysis easier.
